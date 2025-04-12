@@ -1,6 +1,6 @@
 # alou
 #### alou menor 
-
+- [x] listinha
 ``` javascript
 var myVar = "Hello world"; 
 ```
